@@ -52,5 +52,5 @@
         "Temp/": true
     },
     "dotnet.preferCSharpExtension": true,
-    "dotnet.defaultSolution": "Unit2.sln"
+    "dotnet.defaultSolution": "Gametrain-task2.sln"
 }
